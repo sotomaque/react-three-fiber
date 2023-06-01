@@ -8,9 +8,6 @@ import {
   Hero,
   Navbar,
   Tech,
-  BallCanvas,
-  ComputersCanvas,
-  EarthCanvas,
   StarsCanvas,
   Works,
 } from './components';
