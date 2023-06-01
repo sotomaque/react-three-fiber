@@ -40,6 +40,10 @@ export const navLinks = [
   },
 ];
 
+const overview = `I am a full-stack developer with a passion for building web
+applications. I have experience with React, NextJS, React Native,
+SwiftUI and NodeJS. I am also familiar with Python, Java, and C++.`;
+
 const services = [
   {
     title: 'Web Developer',
@@ -262,4 +266,11 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export {
+  experiences,
+  overview,
+  projects,
+  services,
+  technologies,
+  testimonials,
+};
